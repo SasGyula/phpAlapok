@@ -138,16 +138,8 @@
         $szam = 9;
         for($i = 1; $i<9; $i++){
             echo  $szam - $i. "<br>";
-            echo "<br>";
-            echo "<br>";
-            echo "<br>";
         }
     
-    echo '<div class="sakktabla">';
-        for($i = 0; $i<64; $i++){
-            echo '<div class="szines"><p>A</p></div>';
-        }
-    echo "</div>";
     ?>
 </body>
 </html>
